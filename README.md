@@ -26,7 +26,7 @@ Each folder contains:
 To document my learning as a beginner and help others who are starting with SQLAlchemy.
 
 ## About Me 
-Hi! I'm Monika, currently backend Python development.
+Hi! I'm Monika, currently learning backend Python development.
 This is my very first public GitHub project.
 Feel free to give feedback or ask questions!
 
